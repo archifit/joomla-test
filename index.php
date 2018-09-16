@@ -9,7 +9,7 @@
 	require_once 'header-session.php';
 ?>
 <h2>Test</h2>
-<h3> <?php echo "User=$__username" ?> </h3>
+<h4> <?php echo "User=$__username" ?> </h4>
 
 </body>
 </html>
